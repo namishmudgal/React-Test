@@ -1,4 +1,4 @@
-# Shopping cart Frontend Test
+# Shopping Cart Frontend Test
 
 - [Minimum requirements](#minimum-requirements)
 - [Running the Application](#running-the-application)
